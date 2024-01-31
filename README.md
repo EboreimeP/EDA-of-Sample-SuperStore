@@ -1,3 +1,4 @@
+[SparkProject.xlsx](https://github.com/EboreimeP/EDA-of-Sample-SuperStore/files/14107129/SparkProject.xlsx)
 # EDA-of-Sample-SuperStore
 EDA-of-Superstore-dataset
 This project is part of the The Sparks Foundation Internship #GRIP@ The Sparks Foundation #GRIP JANUARY 2024 DATA : SAMPLE SUPERSTORE #Task No.3. CONTRIBUTION: INDIVIDUAL AUTHOR: Precious Ifidon Eboreime
